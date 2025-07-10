@@ -4,9 +4,9 @@
 
 ## 🌟 What is Geminui?
 
-Geminui is a lightweight graphical interface built on top of [`gemini-cli`](https://github.com/moyix/gemini-cli). While `gemini-cli` is powerful, it can be intimidating for users who are not comfortable with command-line tools. Geminui solves this by providing a clean and simple desktop GUI — so you get all the power of Gemini, but with none of the terminal stress.
+Geminui is a lightweight graphical interface built on top of [`gemini-cli`]([https://github.com/moyix/gemini-cli](https://github.com/google-gemini/gemini-cli)). While `gemini-cli` is powerful, it can be intimidating for users who are not comfortable with command-line tools. Geminui solves this by providing a clean and simple desktop GUI — so you get all the power of Gemini, but with none of the terminal stress.
 
-This project was inspired by [Claudia](https://github.com/l-quebec/claudia), which offers a GUI for Claude-based workflows. Geminui brings the same philosophy to the world of open-source Gemini agents.
+This project was inspired by [Claudia](https://github.com/getAsterisk/claudia), which offers a GUI for Claude-based workflows. Geminui brings the same philosophy to the world of open-source Gemini agents.
 
 ## ⚙️ How It Works
 
